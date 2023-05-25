@@ -3546,7 +3546,6 @@
   srcu_torture_stats_print
   sscanf
   __stack_chk_fail
-  __stack_chk_guard
   stack_trace_print
   stack_trace_save
   stack_trace_save_regs
